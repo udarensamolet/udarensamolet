@@ -187,4 +187,6 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 ![GitHub Snake Light](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udarensamolet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=udarensamolet&style=for-the-badge&color=brightgreen)
