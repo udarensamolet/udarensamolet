@@ -183,3 +183,8 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 * Co-Editor of [Fundamentals of Computer Programming with C#](https://introprogramming.info/intro-csharp-book/)
 * Co-Author & Co-Editor of [Programming Basic with C#](https://csharp-book.softuni.bg/)
 * Co-Author & Co-Editor of [Programming Basic with Java](https://java-book.softuni.bg/)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=PavlinPenev&style=for-the-badge&color=brightgreen)
