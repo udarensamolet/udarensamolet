@@ -48,6 +48,11 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![image](https://img.shields.io/badge/AutoMapper-483D8B?style=for-the-badge)
 
+### Currently experimenting with
+![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+
+
 ## Certificates
 ### [Programming Basics with C#](https://softuni.bg/certificates/details/125510/0a6c30f8)
 * First Steps In Coding
@@ -172,3 +177,8 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 * Explain how the upper layers of the OSI model support network applications
 * Configure a small network with security best practices
 * Troubleshoot connectivity in a small network
+
+## Publications
+* Co-Editor of [Fundamentals of Computer Programming with C#](https://introprogramming.info/intro-csharp-book/)
+* Co-Author & Co-Editor of [Programming Basic with C#](https://csharp-book.softuni.bg/)
+* Co-Author & Co-Editor of [Programming Basic with Java](https://java-book.softuni.bg/)
