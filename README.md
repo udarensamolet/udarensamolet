@@ -6,6 +6,7 @@
 An aspiring **junior .NET Developer** who knows how to find answers on StackOverflow. **C# rules** and if you need a junior .NET developer - **I am** the person for you!
 
 ## How to contact me
+Best way to contact me
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/rositsa-nenova/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +14,7 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 </div>
 
 ## Let's talk tech
+These are the languages, libraries, frameworks, technologies and tools that I have experience with
 ### Languages
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +23,13 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/-T--SQL-FAEBD7?style=for-the-badge)
 
+
 ### Libraries and frameworks
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/ASP.NET%20Core-1E90FF?style=for-the-badge)
 ![image](https://img.shields.io/badge/Entity%20Framework%20(Core)-483D8B?style=for-the-badge)
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![image](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![image](https://img.shields.io/badge/NUnit-008000?style=for-the-badge)
@@ -55,6 +58,7 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 
 
 ## Certificates
+These are the certificates that I currently hold and the skills that come with them
 ### [Programming Basics with C#](https://softuni.bg/certificates/details/125510/0a6c30f8)
 * First Steps In Coding
 * Conditional Statements
@@ -180,13 +184,11 @@ An aspiring **junior .NET Developer** who knows how to find answers on StackOver
 * Troubleshoot connectivity in a small network
 
 ## Publications
+I had the pleasure to collaborate on three books about programming
 * Co-Editor of [Fundamentals of Computer Programming with C#](https://introprogramming.info/intro-csharp-book/)
 * Co-Author & Co-Editor of [Programming Basic with C#](https://csharp-book.softuni.bg/)
 * Co-Author & Co-Editor of [Programming Basic with Java](https://java-book.softuni.bg/)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/udarensamolet/udarensamolet/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udarensamolet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udarensamolet&theme=github-compact&bg_color=20232a&hide_border=true" width="100%"/>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=udarensamolet&style=for-the-badge&color=brightgreen)
