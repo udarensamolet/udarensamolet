@@ -51,11 +51,16 @@ These are the languages, libraries, frameworks, technologies and tools that I ha
 ### Other
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![image](https://img.shields.io/badge/AutoMapper-483D8B?style=for-the-badge)
+![image](https://img.shields.io/badge/Angular%20Universal-00ACC1?style=for-the-badge&logo=Angular%20Universal&logoColor=white)
+
 
 ### Currently experimenting with
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-
+![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
+![image](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
+![image](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ## Certificates
 These are the certificates that I currently hold and the skills that come with them
