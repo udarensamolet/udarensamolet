@@ -45,8 +45,14 @@ These are the languages, libraries, frameworks, technologies and tools that I ha
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![image](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Cloud-based technologies
+### Containers and Cloud-based technologies
 ![image](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![image](https://img.shields.io/static/v1?style=for-the-badge&message=Prometheus&color=E6522C&logo=Prometheus&logoColor=FFFFFF&label=)
+![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
+![image](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
+![image](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![image](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
+
 
 ### Other
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
@@ -55,12 +61,10 @@ These are the languages, libraries, frameworks, technologies and tools that I ha
 
 
 ### Currently experimenting with
-![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
-![image](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
-![image](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
-![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+
+
 
 ## Certificates
 These are the certificates that I currently hold and the skills that come with them
@@ -187,6 +191,15 @@ These are the certificates that I currently hold and the skills that come with t
 * Explain how the upper layers of the OSI model support network applications
 * Configure a small network with security best practices
 * Troubleshoot connectivity in a small network
+
+### [Containers and Cloud](https://softuni.bg/certificates/details/174389/58689db3)
+* Linux Shell
+* Containers and Docker
+* Docker Compose
+* Cloud Introduction
+* Infrastructure as Code
+* App Monitoring Tools
+
 
 ## Publications
 I had the pleasure to collaborate on three books about programming
