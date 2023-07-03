@@ -201,6 +201,14 @@ These are the certificates that I currently hold and the skills that come with t
 * App Monitoring Tools
 
 
+### [Algorithms Fundamentals with C#](https://softuni.bg/certificates/details/176634/4825e3b2)
+* Recursion and Backtracking
+* Combinatorial Problems
+* Searching, Sorting and Greedy Algorithms
+* Graph Theory, Traversal and Shortest Paths
+* Introduction to Dynamic Programming
+  
+
 ## Publications
 I had the pleasure to collaborate on three books about programming
 * Co-Editor of [Fundamentals of Computer Programming with C#](https://introprogramming.info/intro-csharp-book/)
