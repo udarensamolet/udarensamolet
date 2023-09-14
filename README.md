@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-An aspiring **junior .NET Developer** who knows how to find answers on StackOverflow. **C# rules** and if you need a junior .NET developer - **I am** the person for you!
+An aspiring **junior .NET Developer** who knows how to find answers on StackOverflow. 
 
 ## How to contact me
 Best way to contact me
