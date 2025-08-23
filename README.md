@@ -215,6 +215,6 @@ I had the pleasure to collaborate on three books about programming
 * Co-Author & Co-Editor of [Programming Basic with C#](https://csharp-book.softuni.bg/)
 * Co-Author & Co-Editor of [Programming Basic with Java](https://java-book.softuni.bg/)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udarensamolet&theme=github-compact&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udarensamolet&theme=github-compact&bg_color=20232a&hide_border=true" width="100%"/>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=udarensamolet&style=for-the-badge&color=brightgreen)
